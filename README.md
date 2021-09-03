@@ -1,7 +1,21 @@
 <!-- [![Header](https://raw.githubusercontent.com/HaithamAjaj/main/HAITHAM.png "Header")](https://some-url.dev/) -->
 
-![Header](https://github.com/HaithamAjaj/HaithamAjaj/blob/main/HAITHAM.png)
+<!-- ![Header](https://github.com/HaithamAjaj/HaithamAjaj/blob/main/HAITHAM.png) -->
 
+## Hi there, I'm Haitham 👋 
+
+### I'm a Web developer intrased in Backend and good self-learner.
+<br/>
+
+- 🔭 I am in a training program web development.
+- 🌱 I’m currently learning everything 🤣
+- 💻 I'm currently working on nodejs, serverless, GraphQL.
+- 👯 I’m looking to collaborate with other senior developers.
+- 🥅 2021 Goals: Become proficient Backend developer and get hired in a leading company.
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/haitham-ajaj]
 
 
 ### Hi there 👋
