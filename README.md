@@ -5,7 +5,7 @@
 
 ## Hi there, I'm Haitham 👋 
 
-### I'm a Web developer intrased in Backend and good self-learner.
+### I'm a Computer Engineer, Web Developer intrased in Backend and self-learner.
 <br/>
 
 - 🔭 I'm in a training program web development.
