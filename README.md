@@ -1,11 +1,8 @@
-<!-- [![Header](https://raw.githubusercontent.com/HaithamAjaj/main/HAITHAM.png "Header")](https://some-url.dev/) -->
-
-<!-- ![Header](https://github.com/HaithamAjaj/HaithamAjaj/blob/main/HAITHAM.png) -->
 ![](https://github.com/HaithamAjaj/HaithamAjaj/blob/main/web-development-neko2.jpg)
 
 ## Hi there, I'm Haitham 👋 
 
-### I'm a Computer Engineer, Web Developer intrased in Backend and self-learner.
+### I'm a Computer Engineer, Web Developer intrased in Backend and Self-Learner.
 <br/>
 
 - 🔭 I'm in a training program web development.
