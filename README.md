@@ -1,6 +1,7 @@
 <!-- [![Header](https://raw.githubusercontent.com/HaithamAjaj/main/HAITHAM.png "Header")](https://some-url.dev/) -->
 
 <!-- ![Header](https://github.com/HaithamAjaj/HaithamAjaj/blob/main/HAITHAM.png) -->
+![](https://github.com/HaithamAjaj/HaithamAjaj/blob/main/web-development-neko2.jpg)
 
 ## Hi there, I'm Haitham 👋 
 
@@ -18,7 +19,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/haitham-ajaj]
 
 
-### Hi there 👋
 
 <!--
 **HaithamAjaj/HaithamAjaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
