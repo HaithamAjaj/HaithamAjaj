@@ -5,7 +5,7 @@
 ### I'm a Computer Engineer, Web Developer intrased in Backend and Self-Learner.
 <br/>
 
-- 🔭 I'm in a training program web development.
+- 🔭 I'm in TAP training program for web development.
 - 🌱 I’m currently learning everything 🤣
 - 💻 I'm currently working on nodejs, serverless, GraphQL.
 - 👯 I’m looking to collaborate with other senior developers.
