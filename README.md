@@ -8,7 +8,7 @@
 ### I'm a Web developer intrased in Backend and good self-learner.
 <br/>
 
-- 🔭 I am in a training program web development.
+- 🔭 I'm in a training program web development.
 - 🌱 I’m currently learning everything 🤣
 - 💻 I'm currently working on nodejs, serverless, GraphQL.
 - 👯 I’m looking to collaborate with other senior developers.
